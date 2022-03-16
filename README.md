@@ -21,3 +21,5 @@ Yay I learned a lot about forking!
 Please add this comment to the main repo :)
 
 really helpful :)
+
+git is great!
