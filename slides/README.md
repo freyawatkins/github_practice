@@ -1,3 +1,3 @@
 # Slides
 
-This is where the slides live
+This is where the fabulous slides live
