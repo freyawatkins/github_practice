@@ -12,5 +12,8 @@ Andrew:  Some of the pennies are dropping...Thanks!
 I'm going to do a couple more changes..
 Here is another one.
 
-This is a great tool to collaborate on a shared project
+This is a great tool to collaborate on a shared project 
+
 git is awesome.
+
+Yay I learned a lot about forking!
