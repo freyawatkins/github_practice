@@ -12,6 +12,22 @@ Andrew:  Some of the pennies are dropping...Thanks!
 I'm going to do a couple more changes..
 Here is another one.
 
-This is a great tool to collaborate on a shared project
+This is a great tool to collaborate on a shared project 
+
+git is awesome.
+
+Yay I learned a lot about forking!
+
+Please add this comment to the main repo :)
+
+really helpful :)
+
+git is great!
+
+And another change added ... adding a further comment
+
+New line in readme
+
+testing testing 123
 
 "fork" always makes me think of fork handles vs four candles
