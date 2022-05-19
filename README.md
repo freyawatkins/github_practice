@@ -39,3 +39,5 @@ great simple explanation of git/github 5/14/22 12:17 pm
 another edit @ 9;19 pm
 
 was practical! 
+
+gec edit 5/18/22 @ 8:01 pm ////
