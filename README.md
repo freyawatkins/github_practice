@@ -42,4 +42,4 @@ was practical!
 
 Git is awesome!
 
-Abeebadeniyi thanks freya and her colleagues.
+Thank you freya and her colleagues.
