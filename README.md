@@ -41,3 +41,5 @@ another edit @ 9;19 pm
 was practical! 
 
 Git is awesome!
+
+Thank you freya and her colleagues.
