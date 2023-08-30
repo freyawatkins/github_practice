@@ -43,3 +43,5 @@ was practical!
 Git is awesome!
 
 Thank you freya and her colleagues.
+
+Thank you for helping me understand Git at 12:13AM on the 31st of August, 2023. I am Tobibantu from Nigeria by the way
